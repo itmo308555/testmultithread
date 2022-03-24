@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "testmultilthread": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

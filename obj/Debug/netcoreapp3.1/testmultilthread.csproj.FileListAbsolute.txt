@@ -1,0 +1,13 @@
+D:\ThacSy\Do An\code-do-an\testmultilthread\bin\Debug\netcoreapp3.1\testmultilthread.exe
+D:\ThacSy\Do An\code-do-an\testmultilthread\bin\Debug\netcoreapp3.1\testmultilthread.deps.json
+D:\ThacSy\Do An\code-do-an\testmultilthread\bin\Debug\netcoreapp3.1\testmultilthread.runtimeconfig.json
+D:\ThacSy\Do An\code-do-an\testmultilthread\bin\Debug\netcoreapp3.1\testmultilthread.runtimeconfig.dev.json
+D:\ThacSy\Do An\code-do-an\testmultilthread\bin\Debug\netcoreapp3.1\testmultilthread.dll
+D:\ThacSy\Do An\code-do-an\testmultilthread\bin\Debug\netcoreapp3.1\testmultilthread.pdb
+D:\ThacSy\Do An\code-do-an\testmultilthread\obj\Debug\netcoreapp3.1\testmultilthread.csprojAssemblyReference.cache
+D:\ThacSy\Do An\code-do-an\testmultilthread\obj\Debug\netcoreapp3.1\testmultilthread.AssemblyInfoInputs.cache
+D:\ThacSy\Do An\code-do-an\testmultilthread\obj\Debug\netcoreapp3.1\testmultilthread.AssemblyInfo.cs
+D:\ThacSy\Do An\code-do-an\testmultilthread\obj\Debug\netcoreapp3.1\testmultilthread.dll
+D:\ThacSy\Do An\code-do-an\testmultilthread\obj\Debug\netcoreapp3.1\testmultilthread.pdb
+D:\ThacSy\Do An\code-do-an\testmultilthread\obj\Debug\netcoreapp3.1\testmultilthread.genruntimeconfig.cache
+D:\ThacSy\Do An\code-do-an\testmultilthread\obj\Debug\netcoreapp3.1\testmultilthread.csproj.CoreCompileInputs.cache
